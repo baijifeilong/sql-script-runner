@@ -4,7 +4,7 @@
     <groupId>io.github.baijifeilong</groupId>
     <artifactId>sql-script-runner</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0.RELEASE</version>
+    <version>1.0.3.RELEASE</version>
     <name>sql-script-runner</name>
 
     <dependencies>
